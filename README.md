@@ -122,5 +122,3 @@ To run the script, ensure all dependencies are installed, and execute the script
 Special thanks to all the open-source libraries and tools that made this project possible, including `pandas`, `scikit-learn`, `SentenceTransformer`, `Annoy`, and Ollama.
 
 ---
-
-I hope this helps! If you need any further modifications or details, feel free to ask.
